@@ -689,8 +689,8 @@ p{
 
 /* Vinyl */
 .vinyl-wrap{
-  width:350px;
-  height:350px;
+  width:450px;
+  height:450px;
   margin: 0 auto 14px;
   display:flex;
   align-items:center;
