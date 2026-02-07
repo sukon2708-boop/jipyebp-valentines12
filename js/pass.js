@@ -1,4 +1,4 @@
-const correctPass = "0502";
+const correctPass = "0501";
 let input = "";
 
 const digitsEl = document.getElementById("digits");
